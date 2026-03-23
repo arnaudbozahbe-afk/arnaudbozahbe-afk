@@ -92,11 +92,3 @@ I have hands-on experience with machine learning, data pipelines, and data wareh
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnaudbozahbe-afk&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-<div align="center">
-
-📧 arnaud.bozahbe@aims.ac.rw &nbsp;|&nbsp; 🌍 Kigali, Rwanda
-
-</div>
