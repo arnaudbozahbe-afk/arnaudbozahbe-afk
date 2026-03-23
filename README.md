@@ -88,8 +88,8 @@ I have hands-on experience with machine learning, data pipelines, and data wareh
 
 <div align="center">
 
-![Arnaud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnaud-bozahbe&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnaud-bozahbe&layout=compact&theme=tokyonight&hide_border=true)
+![Arnaud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnaudbozahbe-afk&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnaudbozahbe-afk&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
