@@ -1,67 +1,100 @@
 # 👋 Hi, I'm Arnaud BOZAHBE
 
-🎓 MSc in Artificial Intelligence & Mathematical Sciences (AIMS Rwanda)  
-🌍 AI for Biodiversity, Conservation & Knowledge Graphs  
-🔬 Researcher in Machine Learning, Graph AI & Ontologies  
+🎓 MSc Student in Artificial Intelligence & Mathematical Sciences (AIMS Rwanda)  
+💡 Aspiring Data Scientist | Data Engineer | AI Research Enthusiast  
+🌍 Interests: Biodiversity, Finance, and Intelligent Systems  
 
 ---
 
 ## 🚀 About Me
 
-I am an AI researcher and data scientist specializing in:
-- Machine Learning & Deep Learning
-- Knowledge Graphs & Link Prediction
-- Biodiversity & Conservation AI
-- Multimodal Data (NIR Spectra, Ecological Data)
+I am a Master's student in Artificial Intelligence with strong interests in Data Science, Data Engineering, and Machine Learning.
+
+I work on applying AI to real-world challenges, particularly in biodiversity conservation, financial systems, and intelligent decision-making.
+
+I have hands-on experience with machine learning, data pipelines, and data warehousing, including financial applications such as mobile money analytics.
+
+📄 I am currently working on a research project on species conservation (Annonaceae), and I have a research paper under submission.
 
 ---
 
-## 🧪 Research Interests
+## 🔥 Current Focus
 
-- Graph Neural Networks (GNN)
-- Knowledge Graph Embeddings
-- Species Conservation Prediction
-- AI for Sustainability & Ecology
+- 🤖 Reinforcement Learning for Autonomous Systems (Master’s Thesis)
+- 🌿 AI for Biodiversity Conservation (Annonaceae species)
+- 🔗 Knowledge Graphs & Link Prediction
+- 💰 Data Science for Financial Systems (Mobile Money, Analytics)
 
 ---
 
 ## 💻 Projects
 
 ### 🌿 Species Conservation Prediction
-- ML models: SVM, XGBoost, Deep Learning
-- Dataset: Annonaceae species
-- Goal: Predict IUCN conservation status
+- Machine Learning: SVM, XGBoost, Deep Learning  
+- Data: ecological, morphological & bioclimatic  
+- Goal: Predict IUCN conservation status  
+
+---
 
 ### 🔗 Knowledge Graph for Biodiversity
-- Ontology (OWL) with Protégé
-- RDFLib + Link Prediction
-- Integration of heterogeneous data
+- Ontology development with Protégé  
+- RDFLib + semantic modeling  
+- Exploration of link prediction techniques  
+
+---
 
 ### 🌈 NIR Spectra Analysis
-- Spectral preprocessing
-- Feature engineering
-- Machine learning models
+- Spectral preprocessing and feature engineering  
+- Machine learning models for complex data  
+
+---
+
+### 🤖 Reinforcement Learning (Ongoing)
+- Autonomous system control using RL + Model Predictive Control  
+- Learning-based decision-making in dynamic environments  
+
+---
+
+### 💳 Mobile Money Data Warehouse
+- Design of a data warehouse for mobile money transactions  
+- ETL pipelines using Talend  
+- Dimensional modeling (Star Schema)  
+- SQL-based analytics for financial insights  
+
+---
 
 ### 🌱 Plant Disease Detection
-- Deep learning (CNN)
-- Flask web deployment
+- Deep Learning (CNN)  
+- Deployment with Flask  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, Java, C++, PHP  
-**ML:** Scikit-learn, PyTorch  
-**Graph:** NetworkX, RDFLib  
-**Data:** Pandas, Hadoop  
-**Web:** Flask, React, Laravel  
-**Tools:** Git, Docker, Protégé  
+### 👨‍💻 Programming
+Python | Java | C++ | PHP  
+
+### 🤖 AI / ML
+Scikit-learn | PyTorch | Deep Learning | Reinforcement Learning (learning phase)  
+
+### 📊 Data Engineering
+SQL | Talend | ETL Pipelines | Data Warehousing | Hadoop (basics)  
+
+### 🔗 Graph & Semantic Web
+RDFLib | NetworkX | Protégé | OWL  
+
+### 🌐 Web
+Flask | React | Laravel  
 
 ---
 
 ## 📫 Contact
 
 📧 arnaud.bozahbe@aims.ac.rw  
-🌍 Based in Kigali, Rwanda  
+🌍 Kigali, Rwanda  
 
 ---
+
+## ⚡ Motto
+
+> Learning, building, and applying AI to solve real-world problems.
