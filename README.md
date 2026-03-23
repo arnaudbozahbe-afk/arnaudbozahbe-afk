@@ -95,12 +95,6 @@ I have hands-on experience with machine learning, data pipelines, and data wareh
 
 ---
 
-## ⚡ Motto
-
-> *Learning, building, and applying AI to solve real-world problems.*
-
----
-
 <div align="center">
 
 📧 arnaud.bozahbe@aims.ac.rw &nbsp;|&nbsp; 🌍 Kigali, Rwanda
