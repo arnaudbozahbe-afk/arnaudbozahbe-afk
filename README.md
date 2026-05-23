@@ -6,7 +6,7 @@
 **🌍 Kigali, Rwanda | 🎓 AIMS Rwanda | 🔬 AI Research Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaud-foubeuda-bozahbe-3599b525a)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gentle-cendol-11cae0.netlify.app/)
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnaud.bozahbe@aims.ac.rw)
 
 </div>
