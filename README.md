@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Arnaud! 👋
+# Hi there, I'm Arnaud! 
 
 **🤖 Data Scientist | AI/ML Engineer | MSc Student in AI & Mathematical Sciences**  
 **🌍 Kigali, Rwanda | 🎓 AIMS Rwanda | 🔬 AI Research Enthusiast**
